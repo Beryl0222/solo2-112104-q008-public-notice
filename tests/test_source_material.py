@@ -2,7 +2,7 @@ import json
 import unittest
 from pathlib import Path
 
-DATA = Path(__file__).parents[1] / "data" / 'notice.json'
+DATA = Path(__file__).parents[1] / "data" / 'hearings.json'
 REQUIRED = {"id", "text"}
 
 

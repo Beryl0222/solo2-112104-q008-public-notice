@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hearing-1",
+    "kind": "resident_statement",
+    "version": 1,
+    "text": "支持改善河岸通行，但不赞成方案甲把步道贴近学校围墙；建议比较方案乙。"
+  },
+  {
+    "id": "hearing-2",
+    "kind": "agency_reply",
+    "version": 1,
+    "text": "交通部门会研究方案乙的接驳影响，并在下一轮说明会上答复。"
+  },
+  {
+    "id": "hearing-3",
+    "kind": "written_comment",
+    "version": 1,
+    "text": "提交人补充：本人反对的是方案甲夜间施工安排，不反对方案甲的路线。"
+  },
+  {
+    "id": "hearing-4",
+    "kind": "minutes_correction",
+    "version": 2,
+    "text": "更正：hearing-1 的发言人撤回对方案乙的支持理由，原方案选择意见仍保留。"
+  }
+]
