@@ -1,8 +1,0 @@
-[project]
-name = "q008_public_notice"
-version = "0.1.0"
-requires-python = ">=3.11,<3.12"
-dependencies = []
-
-[tool.pytest.ini_options]
-python_files = ["test_*.py"]
